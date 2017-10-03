@@ -35,7 +35,7 @@ Para el bioma "marine hábitat" están disponibles 236 metagenomas distintos en 
 5. **¿Cuántas reads fueron asignadas a eucariontes según MG-RAST?**
 
 
-2,128 (14.91%) reads eucariontes según MG-RAST son los que fueron asignados.
+20,128 (14.91%) reads eucariontes según MG-RAST son los que fueron asignados.
 
 
 6. **¿Cuál es el Phylum más abundante en la muestra?:**
