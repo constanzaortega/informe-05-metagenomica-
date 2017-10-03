@@ -73,7 +73,7 @@ SwissProt es una base de datos curada, es decir, que todos los datos han sido re
 
 
 
-#### ** Bibliografía
+#### **Bibliografía**
 
 
 (1).-   http://metagenomics.anl.gov/mgmain.html?mgpage=project&project=mgp27
