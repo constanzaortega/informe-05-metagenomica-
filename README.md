@@ -1,10 +1,10 @@
-##**Informe n°05: Metagenómica.**
+## **Informe n°05: Metagenómica.**
 
 
 ### Constanza Ortega Fuentes
 
 
-####**_Parte 1: Plataforma MG-RAST y exploración de metagenomas_**
+#### **_Parte 1: Plataforma MG-RAST y exploración de metagenomas_**
 
 
 
@@ -56,7 +56,7 @@ Según las bases de KEGG se les asigno una función de acuerdo a 7,960 secuencia
 SwissProt es una base de datos curada, es decir, que todos los datos han sido revisados y comprobados biológicamente, así al ser una plataforma más minuciosa, las secuencias con funciones asignadas disminuyen en comparación a otras bases de datos no curadas.
 
 
-####**Parte 2: _Análisis de metagenomas_**
+#### **Parte 2: _Análisis de metagenomas_**
 
 
 
@@ -73,8 +73,11 @@ SwissProt es una base de datos curada, es decir, que todos los datos han sido re
 
 
 
-####** Bibliografía
+#### ** Bibliografía
+
+
 (1).-   http://metagenomics.anl.gov/mgmain.html?mgpage=project&project=mgp27
+
 
 
 (2).- http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0050077#s4
